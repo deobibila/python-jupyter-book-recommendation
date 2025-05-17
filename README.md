@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://github.com/deobibila/python-jupyter-book-recommendation"><img src="https://img.shields.io/github/stars/deobibila/python-jupyter-book-recommendation?style=flat-square" /></a>
+  <a href="https://github.com/deobibila/python-jupyter-book-recommendation"><img src="https://img.shields.io/github/forks/deobibila/python-jupyter-book-recommendation?style=flat-square" /></a>
+  <a href="https://github.com/deobibila/python-jupyter-book-recommendation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/deobibila/python-jupyter-book-recommendation?style=flat-square" /></a>
+  <a href="https://github.com/deobibila/python-jupyter-book-recommendation/actions"><img src="https://vercel.com/api/ping/deobibila/python-jupyter-book-recommendation" /></a>
+  <a href="https://coveralls.io/github/deobibila/python-jupyter-book-recommendation"><img src="https://coveralls.io/repos/github/deobibila/python-jupyter-book-recommendation/badge.svg?branch=main" /></a>
+  <img src="https://img.shields.io/github/last-commit/deobibila/python-jupyter-book-recommendation?style=flat-square" />
+  <a href="https://github.com/deobibila/python-jupyter-book-recommendation/issues"><img src="https://img.shields.io/github/issues/deobibila/python-jupyter-book-recommendation?style=flat-square" /></a>
+  <a href="https://github.com/deobibila/python-jupyter-book-recommendation/issues"><img src="https://img.shields.io/github/issues-closed/deobibila/python-jupyter-book-recommendation?style=flat-square" /></a>
+</p>
+
 # 📚 Book Forum (Space For Book Lovers to exchange Ideas)
 
 A conversational book recommendation system that uses AI to help users discover their next favorite read. Built with a simple interface and backed by intelligent prompt engineering, this project combines user intent understanding with curated book matching.
