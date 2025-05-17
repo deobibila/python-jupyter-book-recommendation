@@ -50,7 +50,7 @@ As part of my personal AI & infra exploration, I built this project to explore:
 |-------|------|
 | Frontend |  |
 | Backend |  |
-| Optional NLP | ) |
+| Optional NLP |  |
 | Deployment |  |
 | State Mgmt |  |
 
